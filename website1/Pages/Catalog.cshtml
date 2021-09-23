@@ -1,0 +1,27 @@
+﻿@page
+@model website1.Pages.CatalogModel
+@{
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="~/css/Catalog.css">
+    <meta charset="UTF-8">
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet">
+    <title> NewHouse</title>
+</head>
+
+<body>
+    <div class="header__inner">
+        <div class="header__logo">NewHouse</div>
+        <nav class="nav">
+            <a class="nav__link" asp-area="" asp-page="/Index">Back</a>
+        </nav>
+    </div>
+    @foreach (House i in houses)
+    {
+        
+    }
+</body>
+</html>
+}

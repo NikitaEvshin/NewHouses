@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "kHh4+6fF3GGcByEELTY0aVvy2tvqTAMYcmkcbqrFENzbFCxJ/G36Bv9D+0cpIpOWwig990v2ck9pF0BLroaVKg==",
+  "dgSpecHash": "jyYv11bMBKFxTa5lm+bNSGkWBc+3IwNHolSknDnQdNIokdgU9dnFOKtVDQlQc1rCqPMysQ1CmaPYpUx4aQlgFQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Nikit\\source\\repos\\website1\\website1\\website1.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Nikit\\.nuget\\packages\\dapper\\2.0.90\\dapper.2.0.90.nupkg.sha512",
+    "C:\\Users\\Nikit\\.nuget\\packages\\npgsql\\5.0.10\\npgsql.5.0.10.nupkg.sha512",
+    "C:\\Users\\Nikit\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.6.0\\system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512"
+  ],
   "logs": []
 }
