@@ -111,11 +111,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nikit\\source\\repos\\website1\\website1\\website1.csproj",
+      "projectUniqueName": "C:\\Users\\Nikit\\Desktop\\сайт гит\\Website-1\\website1\\website1.csproj",
       "projectName": "website1",
-      "projectPath": "C:\\Users\\Nikit\\source\\repos\\website1\\website1\\website1.csproj",
+      "projectPath": "C:\\Users\\Nikit\\Desktop\\сайт гит\\Website-1\\website1\\website1.csproj",
       "packagesPath": "C:\\Users\\Nikit\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nikit\\source\\repos\\website1\\website1\\obj\\",
+      "outputPath": "C:\\Users\\Nikit\\Desktop\\сайт гит\\Website-1\\website1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Nikit\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -16,12 +16,15 @@
         <div class="header__logo">NewHouse</div>
         <nav class="nav">
             <a class="nav__link" asp-area="" asp-page="/Index">Back</a>
+            @foreach (House i in Model.houses)
+            {
+                <p class="discription">
+                    <img width="250" height="250" class="jpghouse" src="@i.Pages" alt="House image">@i.Name @i.Description
+                </p>
+
+            }
         </nav>
     </div>
-    @foreach (House i in houses)
-    {
-        
-    }
 </body>
 </html>
 }

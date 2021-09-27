@@ -48,3 +48,14 @@ margin-left: 50px;
 .nav__link:hover{
     color: rgb(27, 8, 201);
 }
+.discription{
+    margin-left: 50px;
+    margin-top: 5px;
+    font-size: 25px;
+    color: white;
+    padding: 0 20px;
+    ;
+}
+.jpghouse{
+    margin: 3px 12px 0px 0px;
+}
