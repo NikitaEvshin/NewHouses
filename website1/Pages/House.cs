@@ -7,7 +7,7 @@ namespace website1.Pages
 {
     public class House
     {
-        public string Pages { get; set; }
+        public string Images { get; set; }
         public string Name { get; set; }
         public string Description { get; set; }
 

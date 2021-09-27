@@ -1,11 +1,11 @@
 ﻿@page
-@model website1.Pages.CatalogModel
+@model website1.Pages.ContactModel
 @{
 }
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <link rel="stylesheet" href="~/css/Catalog.css">
+    <link rel="stylesheet" href="~/css/conatact.css">
     <meta charset="UTF-8">
     <link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet">
     <title> NewHouse</title>
@@ -16,13 +16,14 @@
         <div class="header__logo">NewHouse</div>
         <nav class="nav">
             <a class="nav__link" asp-area="" asp-page="/Index">Back</a>
-            @foreach (House i in Model.houses)
-            {
-                <p class="discription">
-                    <img width="300" height="300" class="jpghouse" src="@i.Images" alt="House image">@i.Name @i.Description
-                </p>
+            <p class="description">
+                г. Москва<br />
+                ул. Брестская 2-я д. 9 / 1
+                Время работы – 9:00-21:00<br />
 
-            }
+                РФ: 8 (999) 784-61-06 <br />
+                +7 (495) 128-56-25
+            </p>
         </nav>
     </div>
 </body>

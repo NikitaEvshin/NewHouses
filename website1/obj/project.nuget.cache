@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YA6v3FfxW6uO8YLHqY3whv/PcYbM7CqdRacmn5gsjfI7NA3wkzMG+soyYsErGoQV310DMWYaBfkeNRMRAPFBHQ==",
+  "dgSpecHash": "jyYv11bMBKFxTa5lm+bNSGkWBc+3IwNHolSknDnQdNIokdgU9dnFOKtVDQlQc1rCqPMysQ1CmaPYpUx4aQlgFQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Nikit\\Desktop\\сайт гит\\Website-1\\website1\\website1.csproj",
+  "projectFilePath": "C:\\Users\\Nikit\\source\\repos\\website1\\website1\\website1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Nikit\\.nuget\\packages\\dapper\\2.0.90\\dapper.2.0.90.nupkg.sha512",
     "C:\\Users\\Nikit\\.nuget\\packages\\npgsql\\5.0.10\\npgsql.5.0.10.nupkg.sha512",

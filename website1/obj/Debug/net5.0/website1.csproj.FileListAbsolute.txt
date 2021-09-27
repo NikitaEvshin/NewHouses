@@ -41,3 +41,4 @@ C:\Users\Nikit\source\repos\website1\website1\obj\Debug\net5.0\website1.csproj.C
 C:\Users\Nikit\source\repos\website1\website1\bin\Debug\net5.0\Dapper.dll
 C:\Users\Nikit\source\repos\website1\website1\bin\Debug\net5.0\Npgsql.dll
 C:\Users\Nikit\source\repos\website1\website1\obj\Debug\net5.0\Razor\Pages\Catalog.cshtml.g.cs
+C:\Users\Nikit\source\repos\website1\website1\obj\Debug\net5.0\Razor\Pages\Contact.cshtml.g.cs
