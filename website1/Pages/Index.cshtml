@@ -1,0 +1,40 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<link rel="stylesheet" href="~/css/index.css">
+    <meta charset="UTF-8">
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet">
+    <title> NewHouse</title>
+    
+</head>
+
+<body> 
+    <header class="header">
+        <div class="contanier">
+            <div class="header__inner">
+                <div class="header__logo">NewHouse</div>
+                <nav class="nav">
+                    <a class="nav__link" asp-area="" asp-page="/About">About</a>
+                    <a class="nav__link" asp-area="" asp-page="/Catalog">Catalog</a>
+                    <a class="nav__link" asp-area="" asp-page="/Contact">Contact</a>
+                </nav>
+            </div>
+        </div>
+    </header>
+    <div class="intro">
+        <div class="contanier">
+            <h1 class="intro__title">Лучшие дома для жизни</h1>
+            <p class="discription">
+                <img width="300" height="300" class="jpghouse" src="/css/houseintro.jpg" alt="House image">При строительстве наших домов соблюдаются все требования<br> экологической безопасности,они полностью безвредны для природы,<br> людей и экологии. Нами предусмотрена полная работа дома от собственной<br> энергии с помощью солнечных батарей, канализационных септиков,ветряных<br> коллекторов и других систем безтопливной генерации энергии.
+            </p>
+        </div>
+    </div>
+
+</body>
+</html>
